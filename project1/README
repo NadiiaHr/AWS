@@ -31,14 +31,14 @@ docker run \
 
 3) Kibana Visualizations 
 • Analysis 1 – Top 5 States with Parking Violations:
-http://ec2-18-204-13-78.compute-1.amazonaws.com:5001/files/project01/assets/dashboard01.png
+https://github.com/NadiiaHr/AWS/blob/main/project1/assets/dashboard01.png
 
 In order to analyze the top five states with parking violations, a pie chart was used. This visualization shows that New York state 
 is the state with the highest amount of parking violations distributed (85.07%). The state with the second-highest amount of parking 
 violations given is New Jersey (9.36%), followed by the states of Pennsylvania, Connecticut, and Florida accordingly.
 
 • Analysis 2 – Average Fine Amount, Penalty Amount, and Interest Amount by Year
-http://ec2-18-204-13-78.compute-1.amazonaws.com:5001/files/project01/assets/dashboard02.png
+https://github.com/NadiiaHr/AWS/blob/main/project1/assets/dashboard02.png
 
 To visualize a trend of fine amount, penalty amount, and interest amount, a line graph was used. This visualization shows 
 that the highest peaks for the average fine amount were in the years 2009 and 2020. In 2017, the average penalty amount 
@@ -46,7 +46,7 @@ was the same as the average reduction amount. The trend for the average penalty 
 The average reduction amount had the highest point in 2008, and it has been approximately stable since then.
 
 • Analysis 3 – Top 10 Violation Types
-http://ec2-18-204-13-78.compute-1.amazonaws.com:5001/files/project01/assets/dashboard03.png
+https://github.com/NadiiaHr/AWS/blob/main/project1/assets/dashboard03.png
 
 To visualize the top ten violation types, a horizontal bar chart was used. This visualization shows that the “photo school 
 speed violation” is leading among the top 10 types of violations, in which 88,358 tickets were distributed. The “no parking-street cleaning” 
@@ -54,6 +54,6 @@ speed violation” is leading among the top 10 types of violations, in which 88,
 standing-day/time limits” (37,649), and “no parking-day/time limits” (25,751), respectively.
 
 • Analysis 4 – Total Violations
-http://ec2-18-204-13-78.compute-1.amazonaws.com:5001/files/project01/assets/dashboard04.png
+https://github.com/NadiiaHr/AWS/blob/main/project1/assets/dashboard04.png
 
 A gauge chart was used to visually show how many records were loaded in ElasticSearch. A total of 508,479 thousands of records were loaded.
